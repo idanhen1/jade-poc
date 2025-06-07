@@ -47,7 +47,7 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@/components/ui/dialog"
-import { ControlModalContent } from "@/components/actions/ControlModalContent";
+import ControlModalContent from "@/components/actions/ControlModalContent";
 import {
   Select,
   SelectContent,
