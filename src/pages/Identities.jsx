@@ -102,7 +102,7 @@ const SAMPLE_IDENTITIES = [
     location: "US-East",
     risk_factors: ["Regular activity patterns", "Restricted access patterns"]
   },
-  {
+  { 
     id: 2,
     name: "Jane Doe",
     email: "jane.doe@company.com",
